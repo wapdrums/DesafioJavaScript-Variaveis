@@ -2,8 +2,6 @@
 
 ![Filtros Imagem](./captured.gif?raw=true "Filtros Imagem")
 
-* [Link para o desafio](https://lizvidotti91.github.io/desafio-30-dias-js/Dia%203/index.html); 
-
 ## Tecnologias Usadas
 
 *   JavaScript
