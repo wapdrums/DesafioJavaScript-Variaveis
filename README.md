@@ -1,4 +1,4 @@
-# Dia 03 - Brincando com as Variáveis CSS
+# Desafio JavaScript - Brincando com as Variáveis CSS
 
 ![Filtros Imagem](./captured.gif?raw=true "Filtros Imagem")
 
